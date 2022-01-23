@@ -17,6 +17,6 @@ serveur de développement et configuré pour se connecter à votre cluster.
 - Project code for tutorial on integrating MongoDB into Node.js application using Mongoose: https://www.digitalocean.com/community/tutorials/how-to-integrate-mongodb-with-your-node-application
 
 ### Résultats
-![image](https://user-images.githubusercontent.com/78182781/150660183-00b1062f-c753-4b5b-99a5-956c7bd22266.png)
+![image](https://user-images.githubusercontent.com/78182781/150660405-26dd619f-128b-4f57-aef4-81e0e2ed20a4.png)
 
 
